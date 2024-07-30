@@ -1,0 +1,6 @@
+# pixi environments
+.pixi
+*.egg-info
+*.doit.db
+_output
+dist
